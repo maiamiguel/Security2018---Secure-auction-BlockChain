@@ -1,0 +1,6 @@
+We should have a way to avoid message repetitions. 
+The same message being sent over and over again from a client to a server or between servers
+> Timestamp in each message may solve this problem. Way to avoid DOS.
+> Another way is to use a secure channel but we aren't going to use that here.
+
+wget -r https://pki.cartaodecidadao.pt/publico/lrc/
